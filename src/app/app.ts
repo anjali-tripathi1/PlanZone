@@ -19,7 +19,7 @@ import { routes } from './app.routes';
   providers : [CourseService]
 })
 export class App {
-  protected title = 'PlanZone';
+  protected title = 'Routings';
 
   showLoader:boolean = false
 
